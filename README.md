@@ -1,5 +1,3 @@
-📖 README.md Content
-markdown
 # Inventory Management System
 
 A command-line C++ application for managing inventory items with CSV storage. The system allows users to add items with unique IDs, track quantities, store registration dates, and list all items sorted alphabetically.
@@ -130,8 +128,8 @@ IDs should be unique (current version doesn't enforce this)
 Date format should be consistent (YYYY-MM-DD recommended)
 
 👤 Author
-Your Name
-GitHub: @your-username
+USANASE SHEJA Joie darlene
+GitHub: https://github.com/joie-darlene/
 
 📄 License
 This project is for educational and personal use. Feel free to modify and distribute.
